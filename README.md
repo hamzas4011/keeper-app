@@ -7,15 +7,17 @@ This project was built as part of the [The Complete 2024 Web Development Bootcam
 ## 📸 Screenshots
 1. **Initial View**  
    The app starts with a clean interface, ready to add your first note.  
-   ![1](https://github.com/user-attachments/assets/d9cfdbfe-2dd4-46e6-a209-8bcae49b60a8)
+  ![1](https://github.com/user-attachments/assets/ddfcb9e9-5672-4fd3-a525-80a485a7bbfe)
+
 
 2. **Adding a Note**  
    Users can enter a title and description to add a new note.  
-   ![2](https://github.com/user-attachments/assets/8a5801a8-fff0-4c56-bf3c-79ce3195132c)
+   ![2](https://github.com/user-attachments/assets/b5c31680-ba0a-4419-b826-d2f25b8f18b0)
+
 
 3. **Notes Display**  
    Notes are displayed dynamically as cards, with the option to delete them individually.  
-   ![3](https://github.com/user-attachments/assets/4e9c8e03-50ed-496c-b9d7-51395e29d495)
+   ![3](https://github.com/user-attachments/assets/e5835587-ee48-481a-9d29-86bfc1aec5d7)
 
 ---
 
