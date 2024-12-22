@@ -1,6 +1,6 @@
 # 🌟 Overview
-Keeper App is a simple and intuitive note-taking application using **React.js**.  
-This project was built as part of the [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu.
+Keeper App is a simple and intuitive note-taking application built using **React.js**.
+This project was created for learning purposes as part of the The Complete 2024 Web Development Bootcamp by Angela Yu.
 
 ---
 
